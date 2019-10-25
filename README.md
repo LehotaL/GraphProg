@@ -1,2 +1,2 @@
 # GraphProg
-# A GraphProg egy grafikus programozói keretrendszer.
+A GraphProg egy grafikus programtervezői keretrendszer.
